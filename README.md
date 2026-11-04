@@ -1,2 +1,1 @@
-# drive
-drive repo to host website for rclone
+Privacy Policy for rclone
